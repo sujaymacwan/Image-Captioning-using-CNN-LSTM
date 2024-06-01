@@ -2,16 +2,16 @@
 This repository implements an image captioning system using Convolutional Neural Networks (CNNs) for image feature extraction and Long Short-Term Memory (LSTM) networks for sequence prediction. The model generates descriptive captions for images, leveraging the strengths of both CNNs and LSTMs.
 
 ## Table of Contents
--Introduction
--Setup and Installation
--Data Preparation
--Model Architecture
--Training the Model
--Evaluation and Inference
--Results
--Future Work
--Contributing
--License
+  -Introduction
+  -Setup and Installation
+  -Data Preparation
+  -Model Architecture
+  -Training the Model
+  -Evaluation and Inference
+  -Results
+  -Future Work
+  -Contributing
+  -License
 
 ## Introduction
 Image Captioning is the process of generating textual descriptions of images. This task lies at the intersection of computer vision and natural language processing, typically using an encoder-decoder framework. Here, we use:
@@ -20,7 +20,7 @@ Image Captioning is the process of generating textual descriptions of images. Th
 
 ## Setup and Installation
 ### Clone the repository:
-  -git clone https://github.com/yourusername/image-captioning-cnn-lstm.git
+  -[git clone](https://github.com/sujaymacwan/image-captioning-cnn-lstm.git)
   -cd image-captioning-cnn-lstm
 
 ### Install the required packages:
