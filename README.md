@@ -28,6 +28,9 @@ Image Captioning is the process of generating textual descriptions of images. Th
 
 ## Data Preparation
 Download the dataset: [Flickr8k](https://www.kaggle.com/datasets/adityajn105/flickr8k/code)
+OR
+https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
 
 ## Model Architecture
 The image captioning model combines CNNs and LSTMs:
